@@ -1,0 +1,132 @@
+h1{
+    margin: 50px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4.3em;
+}
+
+.izq{
+    float: left;
+
+}
+.centro{
+    text-align: center;
+}
+nav{
+    font-family: 'Roboto', sans-serif;
+    background-color: #d7ddedc7;
+    text-align: center;
+    height: 70px;
+    font-size: 1.3em;
+    color: #545454;
+}
+nav ul li{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 40px 10px 40px;
+    
+}
+.sinpadding{
+    padding: 0px;
+    margin: 0px;
+}
+.bebas{
+    font-family: 'Bebas Neue', cursive; font-size: 3.1em;
+}
+.marginbebas{
+    margin: 20px 100px 20px 100px;
+}
+.raleway{
+    font-family: 'Raleway', sans-serif; font-size: 1em;
+}
+footer{
+    background-color: #d7ddedc7;
+    margin-top: 130px;
+    height: 650px;
+
+}
+#tocadiscos{
+    margin-top: 20px;
+    box-align: middle;
+}
+#textotocadisco{
+    text-align: justify; text-indent: 2em; margin:20px 0px 0px 20px;
+    font-size: 1.2em;
+}
+#deshagase{
+    margin: 50px;
+    margin-left: 50px;
+    text-align:left;
+}
+.auris{
+    margin: 0px 30px;
+}
+.caja1{
+    margin: 10px;
+    padding: 30px;
+    height: 200px;
+    width: 300px;
+    padding-left: 10px;
+}
+.vermas{
+    font-size: 1.25em;
+    padding: 20px;
+    padding-bottom: 70px;
+ 
+}
+#datos{
+    margin: 30px 0px;
+    text-align: center;
+}
+#datos2{
+    margin-left: 100px;
+    
+}
+.tecnica{
+    text-align:right; 
+    text-indent: 2em; 
+    margin:80px 30px 80px 20px;
+    font-size: 1.2em;
+}
+.distribuidores{
+    text-align: justify; text-indent: 1.5em; margin:20px;
+    font-size: 1.2em;
+}
+.argentina{
+    margin: 100px 0px;
+}
+.juegosystream{
+margin: 80px 0px;
+background-color: #eef0f7;
+}
+.juegos{
+    font-family: 'Bebas Neue', cursive; font-size: 5em;
+    padding-left: 50px;
+}
+.auris2{
+    margin: 0px;
+}
+.productos{
+    margin-top: 100px;
+}
+.marginproductos{
+    margin: 20px 0px 10px 60px;
+}
+.marginp{
+    margin: 0px 30px;
+}
+#arrivals{
+    margin: 50px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4.3em;
+}
+.arrivals{
+    margin: 100px 0px;
+}
+.alineadotexto{
+    padding-top: 30px;
+}
+.link{
+    list-style: none;
+    text-decoration: none;
+}
